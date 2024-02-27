@@ -4,7 +4,7 @@ test('index page has expected elements', async ({ page }) => {
   await page.goto('/');
 
   // basic elements
-  await expect(page.getByRole('heading', { name: 'Share Note' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Share Notes' })).toBeVisible();
   await expect(page.getByTestId('content')).toBeVisible();
   await expect(page.getByRole('button', { name: 'Share Note' })).toBeVisible();
 
