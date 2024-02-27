@@ -13,7 +13,7 @@
 </script>
 
 <svelte:head>
-  <title>Read note - Share Notes</title>
+  <title>Read note -  X-Notes</title>
   <meta
     name="description"
     content="Someone sent you an end-to-end encrypted note with X-Notes. Open the link to view the note."
