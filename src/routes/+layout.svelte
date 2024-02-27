@@ -18,7 +18,7 @@
     </a>
     <div class="flex gap-2 items-center">
       <a
-        href="https://github.com/edde746/ephnote"
+        href="https://github.com/xnkit69"
         class="p-2 rounded-full dark:hover:bg-neutral-900 hover:bg-neutral-100"
       >
         <Icon src={Github} class="w-6 h-6" />
