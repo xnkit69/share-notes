@@ -22,7 +22,7 @@
         class="p-2 rounded-full dark:hover:bg-neutral-900 hover:bg-neutral-100"
       >
         <Icon src={Github} class="w-6 h-6" />
-        <span class="sr-only">GtHub</span>
+        <span class="sr-only">GitHub</span>
       </a>
     </div>
   </div>
