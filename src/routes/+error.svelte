@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Error {$page.status} - X</title>
+  <title>Error {$page.status} - Share Notes</title>
 </svelte:head>
 
 <h1 class="text-2xl font-black">{$page.status}</h1>
